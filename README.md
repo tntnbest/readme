@@ -27,7 +27,7 @@ msa 아키텍처를 도입하여 분산환경에서 동시에 많은 유저들�
 <br>
 
 ## 📒 ERD
-링크
+![tntnMarket_erd](https://github.com/user-attachments/assets/a510aa46-0b65-4e19-8a94-88329984f7b5)
 
 <br>
 
